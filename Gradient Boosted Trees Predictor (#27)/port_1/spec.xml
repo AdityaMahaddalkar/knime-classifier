@@ -194,13 +194,13 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="b'Abnormal'"/>
+                        <entry key="StringCell" type="xstring" value="b'Normal'"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="b'Normal'"/>
+                        <entry key="StringCell" type="xstring" value="b'Abnormal'"/>
                     </config>
                 </config>
             </config>
@@ -220,13 +220,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.8402426050172456"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.5790215709172271"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.999999547059574"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.999999673180415"/>
                 </config>
             </config>
         </config>

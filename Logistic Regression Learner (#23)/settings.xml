@@ -48,7 +48,7 @@
         <entry key="useOrderFromTargetDomain" type="xboolean" value="false"/>
         <entry key="useOrderFromFeatureDomain" type="xboolean" value="false"/>
         <entry key="solver" type="xstring" value="SAG"/>
-        <entry key="maxEpoch" type="xint" value="1000"/>
+        <entry key="maxEpoch" type="xint" value="1000000"/>
         <entry key="performLazy" type="xboolean" value="true"/>
         <entry key="epsilon" type="xdouble" value="1.0E-5"/>
         <entry key="learningRateStrategy" type="xstring" value="Fixed"/>
